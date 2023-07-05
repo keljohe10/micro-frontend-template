@@ -1,0 +1,14 @@
+dist
+.idea
+.env
+node_modules
+lib
+.vscode
+/coverage
+config/local.json
+ssl
+.DS_Store
+cypress.env.json
+/cypress/screenshots
+/cypress/downloads
+/cypress/videos
